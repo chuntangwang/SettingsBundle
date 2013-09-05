@@ -18,6 +18,7 @@
 		57C7798C17D8E3D6000C3E79 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 57C7798B17D8E3D6000C3E79 /* Default-568h@2x.png */; };
 		57C7798F17D8E3D7000C3E79 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57C7798D17D8E3D7000C3E79 /* MainStoryboard.storyboard */; };
 		57C7799217D8E3D7000C3E79 /* CTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57C7799117D8E3D7000C3E79 /* CTViewController.m */; };
+		57C7799917D8E3F5000C3E79 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 57C7799817D8E3F5000C3E79 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		57C7798E17D8E3D7000C3E79 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		57C7799017D8E3D7000C3E79 /* CTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CTViewController.h; sourceTree = "<group>"; };
 		57C7799117D8E3D7000C3E79 /* CTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CTViewController.m; sourceTree = "<group>"; };
+		57C7799817D8E3F5000C3E79 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = Settings.bundle; path = ../Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		57C7797C17D8E3D6000C3E79 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				57C7799817D8E3F5000C3E79 /* Settings.bundle */,
 				57C7797D17D8E3D6000C3E79 /* SettingsBundle-Info.plist */,
 				57C7797E17D8E3D6000C3E79 /* InfoPlist.strings */,
 				57C7798117D8E3D6000C3E79 /* main.m */,
@@ -164,6 +167,7 @@
 				57C7798A17D8E3D6000C3E79 /* Default@2x.png in Resources */,
 				57C7798C17D8E3D6000C3E79 /* Default-568h@2x.png in Resources */,
 				57C7798F17D8E3D7000C3E79 /* MainStoryboard.storyboard in Resources */,
+				57C7799917D8E3F5000C3E79 /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
