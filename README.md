@@ -1,0 +1,4 @@
+SettingsBundle
+==============
+
+Demo settings bundle
